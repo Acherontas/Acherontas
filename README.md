@@ -28,6 +28,7 @@ Some solutions tends to proof the tendency of a high precision digit values
 A Solution where the numbers of an IQ test are using a pivoting
 
 Τι θα δείτε
+
 Πολλές λύσεις όσο αφορά το άθροισμα των ψηφιών ενός αριθμού με το αποτέλεσμα
 στο εύρος [1-9] 
   πχ 2785=2+7+8+5=X + 22 οπου 22=2+2=4 δηλαδή 2785==2 ναι '==' οχι '='
@@ -39,12 +40,15 @@ A Solution where the numbers of an IQ test are using a pivoting
 
 Μία λύση όπου οι αριθμοί ενός IQ τεστ χρηιμοποιούν βηματισμό
 
-Whatever doesnt work as intended its not my fault u can contact me at acherontia.myosotis@gmail.com
-Για οτιδήποτε δεν δουλεύει δεν φταίω εγώ. Μπορείτε να επικοινωνήσετε μαζί μου στο acherontia.myosotis@gmail.com
+Whatever doesnt work as intended its not my fault u can contact me at acherontia.myosotis@gmail.com or u want to contact me for info
+
+Για οτιδήποτε δεν δουλεύει δεν φταίω εγώ. Μπορείτε να επικοινωνήσετε μαζί μου στο acherontia.myosotis@gmail.com ή θέλετε να επικοινωνήσετε μαζί μου για πληροφορίες
 
 I dont want from you to modify and redistribute the code without my knowledge.
+
 Δεν θέλω να αλλάζετε και να διαμένετε τον κώδικο χωρίς την γνώση μου.
 
 Thank you all.
+
 Σας ευχαριστώ όλους.
 
