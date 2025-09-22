@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 What do you expect to see
+
 A lot of solutions to find the summary number on the range of [1-9] of a given number 
     eg 2785=2+7+8+5=Χ + 22 where 22=2+2=4  so 2785==4 yes '==' not '=' 
        and X will always have a summary number of 9
