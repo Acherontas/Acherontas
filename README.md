@@ -15,6 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Its all a like paradox.
+The sum can be used as new input to extract the same sum.
+It is like a classified methodology of mathematics
+It contains some generators a second solutions is with min and max 
+It contains everything in a code as long as long long int type after well.... dont ask to(o) much 
+
+If u want to ask u ask.
+If u want to pay well its good for you u just contact me.
+If u dont alert me well .... 
+
+Ειναι σαν ενα παράδοξο.
+Το άθροισμα μπορει να χρησιμοποιηθεί για να το ξαναβγάλεις
+Ειναι σαν απόρρητες μεθοδολογίες των μαθηματικών.
+Περιέχει κάποιες γεννήτρίες με την δεύτερη λύση να ειναι η χρήση μέγιστου ελάχιστου
+Περιέχει σχεδόν τα πάντα σε κώδικο όσο το long long int ως τύπος το υποστηρίζει για μετα... μην ρωτάτε και πολλά
+
+Εάν θέλετε να ρωτήσετε ρωτάτε
+Ένα θέλετε να πληρώστε... είναι καλό για σας, απλά επικονωνήτε μαζί μου.
+Εάν δεν με ειδοποιήσετε ......
+
+
 What do you expect to see
 
 A lot of solutions to find the summary number on the range of [1-9] of a given number 
