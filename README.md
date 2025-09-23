@@ -61,9 +61,9 @@ A Solution where the numbers of an IQ test are using a pivoting
 
 Μία λύση όπου οι αριθμοί ενός IQ τεστ χρηιμοποιούν βηματισμό
 
-Whatever doesnt work as intended its not my fault u can contact me at acherontia.myosotis@gmail.com or u want to contact me for info
+Whatever doesnt work as intended its not my fault. You can contact me even for info at acherontia.myosotis@gmail.com.
 
-Για οτιδήποτε δεν δουλεύει δεν φταίω εγώ. Μπορείτε να επικοινωνήσετε μαζί μου στο acherontia.myosotis@gmail.com ή θέλετε να επικοινωνήσετε μαζί μου για πληροφορίες
+Για οτιδήποτε δεν δουλεύει, ή και για πληροφορίες. Μπορείτε να επικοινωνήσετε μαζί μου στο acherontia.myosotis@gmail.com 
 
 I dont want from you to modify and redistribute the code without my knowledge.
 
