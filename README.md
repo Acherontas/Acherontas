@@ -48,6 +48,10 @@ Some solutions tends to proof the tendency of a high precision digit values
 
 A Solution where the numbers of an IQ test are using a pivoting
 
+A Classified Table which read a file, with a RANDOM letters and numbers in sequence, which makes the encryption-decryption process almost unique with the 
+
+combination of control units.
+
 Τι θα δείτε
 
 Πολλές λύσεις όσο αφορά το άθροισμα των ψηφιών ενός αριθμού με το αποτέλεσμα
@@ -60,6 +64,10 @@ A Solution where the numbers of an IQ test are using a pivoting
 Κάποιες λύσεις τείνουν να αποδεικνύουν την χρησιμότητα των αριθμών με υψηλής ακρίβειας τιμές ψηφίων
 
 Μία λύση όπου οι αριθμοί ενός IQ τεστ χρηιμοποιούν βηματισμό
+
+Εναν απόρρητό Πίνακα ο οποιος διαβάζει ενα αρχείο, με ΤΥΧΑΙΟΥΣ σε σειρα εγγραφής αριθμούς και γράμματα, το οποιο κάνει την διαδικασία 
+
+κρυπτογράφησης και αποκρυπτογράφησης σχεδον μοναδική μαζί με σημεια ελέγχου.
 
 Whatever doesnt work as intended its not my fault. You can contact me even for info at acherontia.myosotis@gmail.com.
 
