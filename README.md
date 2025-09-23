@@ -73,6 +73,12 @@ Whatever doesnt work as intended its not my fault. You can contact me even for i
 
 Για οτιδήποτε δεν δουλεύει, ή και για πληροφορίες. Μπορείτε να επικοινωνήσετε μαζί μου στο acherontia.myosotis@gmail.com 
 
+its a channel at https://www.youtube.com/channel/UC-n-bCOENu0P91aZqJtdn7g.
+
+και κανάλι youtube https://www.youtube.com/channel/UC-n-bCOENu0P91aZqJtdn7g.
+
+
+
 I dont want from you to modify and redistribute the code without my knowledge.
 
 Δεν θέλω να αλλάζετε και να διαμένετε τον κώδικο χωρίς την γνώση μου.
