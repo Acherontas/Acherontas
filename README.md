@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Its all a like paradox.
+Its all like a paradox.
 The sum can be used as new input to extract the same sum.
 It is like a classified methodology of mathematics
 It contains some generators a second solutions is with min and max 
