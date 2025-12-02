@@ -50,7 +50,7 @@ A Solution where the numbers of an IQ test are using a pivoting
 
 A Classified Table which read a file, with a RANDOM letters and numbers in sequence, which makes the encryption-decryption process almost unique with the 
 
-combination of control units i will called it Mpaliampoulia.
+combination of control units i will called it Mpaliampoulia. https://www.youtube.com/watch?v=4IuxoUh0NAk
 
 Τι θα δείτε
 
@@ -67,7 +67,7 @@ combination of control units i will called it Mpaliampoulia.
 
 Εναν απόρρητό Πίνακα ο οποιος διαβάζει ενα αρχείο, με ΤΥΧΑΙΟΥΣ σε σειρα εγγραφής αριθμούς και γράμματα, το οποιο κάνει την διαδικασία 
 
-κρυπτογράφησης και αποκρυπτογράφησης σχεδον μοναδική μαζί με σημεια ελέγχου. Με το όνομα Μπαλιαμπούλια.
+κρυπτογράφησης και αποκρυπτογράφησης σχεδον μοναδική μαζί με σημεια ελέγχου. Με το όνομα Μπαλιαμπούλια. https://www.youtube.com/watch?v=4IuxoUh0NAk
 
 Whatever doesnt work as intended its not my fault. You can contact me even for info at acherontia.myosotis@gmail.com.
 
