@@ -84,7 +84,9 @@ I dont want from you to modify and redistribute the code without my knowledge.
 Δεν θέλω να αλλάζετε και να διαμένετε τον κώδικο χωρίς την γνώση μου.
 
 Ευπάθεια της TP-Link εαν και χρησιμοποιώ ένα 
+
 ενα παρόμοιο βίντεο https://www.youtube.com/watch?v=Xz4anNDvCRg 
+
 και η ανακοίνωση https://www.youtube.com/watch?v=EgUoYLG2MI0
 
 Thank you all.
