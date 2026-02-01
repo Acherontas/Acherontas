@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Its all like a paradox.
+
+
+Just like the divisibilities rules ---> https://en.wikipedia.org/wiki/Divisibility_rule
+
+
 The sum can be used as new input to extract the same sum.
 It is like a classified methodology of mathematics
 It contains some generators a second solutions is with min and max 
@@ -26,6 +31,11 @@ If u want to pay well its good for you u just contact me.
 If u dont alert me well .... 
 
 Ειναι σαν ενα παράδοξο.
+
+
+Όπως οι κανόνες διαιρετότητας --> https://en.wikipedia.org/wiki/Divisibility_rule
+
+
 Το άθροισμα μπορει να χρησιμοποιηθεί για να το ξαναβγάλεις
 Ειναι σαν απόρρητες μεθοδολογίες των μαθηματικών.
 Περιέχει κάποιες γεννήτρίες με την δεύτερη λύση να ειναι η χρήση μέγιστου ελάχιστου
