@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+English:
 
 Its all like a paradox.
 
@@ -29,6 +30,8 @@ It contains everything in a code as long as long long int type after well.... do
 If u want to ask u ask.
 If u want to pay well its good for you u just contact me.
 If u dont alert me well .... 
+
+Greek:
 
 Ειναι σαν ενα παράδοξο.
 
