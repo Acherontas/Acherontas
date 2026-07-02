@@ -28,8 +28,7 @@ It contains some generators a second solutions is with min and max
 It contains everything in a code as long as long long int type after well.... dont ask to(o) much 
 
 If u want to ask u ask.
-If u want to pay well its good for you u just contact me.
-If u dont alert me well .... 
+
 
 Greek:
 
@@ -45,8 +44,7 @@ Greek:
 Περιέχει σχεδόν τα πάντα σε κώδικο όσο το long long int ως τύπος το υποστηρίζει για μετα... μην ρωτάτε και πολλά
 
 Εάν θέλετε να ρωτήσετε ρωτάτε
-Ένα θέλετε να πληρώστε... είναι καλό για σας, απλά επικονωνήτε μαζί μου.
-Εάν δεν με ειδοποιήσετε ......
+
 
 
 What do you expect to see
