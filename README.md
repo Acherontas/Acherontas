@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 English:
 
-Its all like a paradox.
-
-
 Just like the divisibilities rules ---> https://en.wikipedia.org/wiki/Divisibility_rule
-
 
 The sum can be used as new input to extract the same sum.
 It is like a classified methodology of mathematics
@@ -32,11 +28,7 @@ If u want to ask u ask.
 
 Greek:
 
-Ειναι σαν ενα παράδοξο.
-
-
 Όπως οι κανόνες διαιρετότητας --> https://en.wikipedia.org/wiki/Divisibility_rule
-
 
 Το άθροισμα μπορει να χρησιμοποιηθεί για να το ξαναβγάλεις
 Ειναι σαν απόρρητες μεθοδολογίες των μαθηματικών.
