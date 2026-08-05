@@ -23,6 +23,8 @@ It is like a classified methodology of mathematics
 It contains some generators a second solutions is with min and max 
 It contains everything in a code as long as long long int type after well.... dont ask to(o) much 
 
+i use codeblocks ----> https://www.codeblocks.org/downloads/
+
 If u want to ask u ask.
 
 
@@ -35,6 +37,7 @@ Greek:
 Περιέχει κάποιες γεννήτρίες με την δεύτερη λύση να ειναι η χρήση μέγιστου ελάχιστου
 Περιέχει σχεδόν τα πάντα σε κώδικο όσο το long long int ως τύπος το υποστηρίζει για μετα... μην ρωτάτε και πολλά
 
+Χρησιμοποιώ το codeblocks -----> https://www.codeblocks.org/downloads/
 Εάν θέλετε να ρωτήσετε ρωτάτε
 
 
