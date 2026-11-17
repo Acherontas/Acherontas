@@ -21,7 +21,7 @@ Just like the divisibilities rules ---> https://en.wikipedia.org/wiki/Divisibili
 The sum can be used as new input to extract the same sum.
 It is like a classified methodology of mathematics
 It contains some generators a second solutions is with min and max 
-It contains everything in a code as long as long long int type after well.... dont ask to(o) much 
+ 
 
 i use codeblocks ----> https://www.codeblocks.org/downloads/ and
 
@@ -37,7 +37,7 @@ Greek:
 Το άθροισμα μπορει να χρησιμοποιηθεί για να το ξαναβγάλεις
 Ειναι σαν απόρρητες μεθοδολογίες των μαθηματικών.
 Περιέχει κάποιες γεννήτρίες με την δεύτερη λύση να ειναι η χρήση μέγιστου ελάχιστου
-Περιέχει σχεδόν τα πάντα σε κώδικο όσο το long long int ως τύπος το υποστηρίζει για μετα... μην ρωτάτε και πολλά
+
 
 Χρησιμοποιώ το codeblocks -----> https://www.codeblocks.org/downloads/ και
 
