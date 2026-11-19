@@ -19,7 +19,7 @@ English:
 Just like the divisibilities rules ---> https://en.wikipedia.org/wiki/Divisibility_rule
 
 The sum can be used as new input to extract the same sum.
-It is like a classified methodology of mathematics
+
 It contains some generators a second solutions is with min and max 
  
 
@@ -35,7 +35,8 @@ Greek:
 Όπως οι κανόνες διαιρετότητας --> https://en.wikipedia.org/wiki/Divisibility_rule
 
 Το άθροισμα μπορει να χρησιμοποιηθεί για να το ξαναβγάλεις
-Ειναι σαν απόρρητες μεθοδολογίες των μαθηματικών.
+
+
 Περιέχει κάποιες γεννήτρίες με την δεύτερη λύση να ειναι η χρήση μέγιστου ελάχιστου
 
 
@@ -55,7 +56,6 @@ A lot of solutions to find the summary number on the range of [1-9] of a given n
 
 Some solutions are for square root
 
-Some solutions tends to proof the tendency of a high precision digit values
 
 A Solution where the numbers of an IQ test are using a pivoting
 
@@ -72,7 +72,6 @@ combination of control units i will called it Mpaliampoulia. https://www.youtube
 
 Κάποιες λύσεις αφορούν την τετραγωνική ρίζα
 
-Κάποιες λύσεις τείνουν να αποδεικνύουν την χρησιμότητα των αριθμών με υψηλής ακρίβειας τιμές ψηφίων
 
 Μία λύση όπου οι αριθμοί ενός IQ τεστ χρηιμοποιούν βηματισμό
 
